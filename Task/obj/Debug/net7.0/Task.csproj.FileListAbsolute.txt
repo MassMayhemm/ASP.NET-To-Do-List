@@ -1,0 +1,15 @@
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\bin\Debug\net7.0\Task.deps.json
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\bin\Debug\net7.0\Task.dll
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\bin\Debug\net7.0\Task.pdb
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\bin\Debug\net7.0\ToDoList.Domain.dll
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\bin\Debug\net7.0\ToDoList.Domain.pdb
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\Task.csproj.CopyComplete
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\Task.dll
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\refint\Task.dll
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\Task.pdb
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\Task\obj\Debug\net7.0\ref\Task.dll

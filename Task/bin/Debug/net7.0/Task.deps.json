@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task/1.0.0": {
+        "dependencies": {
+          "ToDoList.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Task.dll": {}
+        }
+      },
+      "ToDoList.Domain/1.0.0": {
+        "runtime": {
+          "ToDoList.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDoList.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

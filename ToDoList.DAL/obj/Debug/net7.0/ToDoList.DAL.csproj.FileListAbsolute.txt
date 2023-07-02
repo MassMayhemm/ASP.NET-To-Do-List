@@ -1,0 +1,15 @@
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.deps.json
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.dll
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.pdb
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.Domain.dll
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.Domain.pdb
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.AssemblyReference.cache
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.AssemblyInfoInputs.cache
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.AssemblyInfo.cs
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.CopyComplete
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.dll
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\refint\ToDoList.DAL.dll
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.pdb
+C:\Users\tony5\RiderProjects\ASP dot NET CORE MVC - ToDoList\ToDoList.DAL\obj\Debug\net7.0\ref\ToDoList.DAL.dll
